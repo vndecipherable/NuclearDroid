@@ -1,0 +1,40 @@
+# Gradle files
+.gradle/
+build/
+*/build/
+**/build/
+local.properties
+*.iml
+
+# Android Studio files
+*.idea/
+*.hprof
+*.log
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Java class files
+*.class
+
+# Generated files
+app/build/
+app/intermediates/
+app/out/
+app/generated/
+
+# Android specific
+*.apk
+*.ap_
+*.dex
+*.jks
+*.keystore
+*.aar
+*.so
+
+# Misc
+*.gradle
+*/gradle-wrapper.jar
+gradle-wrapper.properties
+.gradle/
